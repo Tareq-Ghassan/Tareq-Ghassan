@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-ghassan/)
+
 [![LinkedIn](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Tareq-Ghassan/)
 
 
